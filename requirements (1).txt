@@ -1,4 +1,0 @@
-streamlit
-snowflake-snowpark-python
-pandas
-pyyaml
